@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)
+
+Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)
+
+Automated testing is a safety net that protects the program from its programmers 🐛 (Yegor Bugayenko)
+
+![](https://raw.githubusercontent.com/caobaohien/Language-Stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/caobaohien/Language-Stats/generated/languages.svg#gh-dark-mode-only)
 <!--
 **caobaohien/caobaohien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
